@@ -1,0 +1,30 @@
+.header {
+    padding: 20px 15px;
+    background: darkcyan;
+
+}
+
+.vertical-menu {
+    width: 250px;
+  }
+  
+  .vertical-menu a {
+    background-color: darkslateblue;
+    color: white;
+    display: block;
+    padding: 50px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .class-center {
+      width:"250px"
+  }
